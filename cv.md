@@ -1,2 +1,2 @@
 
-feat: update cv.md fil
+fix: update cv.md fil
