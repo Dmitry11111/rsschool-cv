@@ -1,5 +1,5 @@
 ---
-title: 'Your Name'
+title: 'Dmitry Trifonov'
 website: http://yourwebsite.com
 street: Street address
 city: City
