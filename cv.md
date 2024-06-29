@@ -2,7 +2,7 @@
 title: 'Dmitry Trifonov'
 website: http://yourwebsite.com
 street: Street address
-city: City
+city: Saint Petersburg
 postcode: Postal code
 phone: +12 (0)3456 7891011
 email: your.email@address.com
