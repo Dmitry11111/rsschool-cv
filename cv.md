@@ -1,7 +1,7 @@
 ---
 title: 'Dmitry Trifonov'
 website: http://yourwebsite.com
-street: Street address
+street: Torez
 city: Saint Petersburg
 postcode: Postal code
 phone: +12 (0)3456 7891011
