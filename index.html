@@ -1,0 +1,145 @@
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Creating Responsive Web Sites " />
+    <meta name="keywords" content="HTML, CSS, Responsive Resume Templates" />
+    <meta name="author" content="Dmitry Trifonov" />
+    <title>CV - Dmitry Trifonov</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header__top">
+                <!-- <h1 class="header__title">Dmitry Trifonov</h1> -->
+                <nav class="social-links">
+                    <a href="https://www.linkedin.com/in/dmitry-trifonov1/">
+                        <i class="fab fa-linkedin"></i>
+                    </a>
+                    <a href="https://github.com/Dmitry11111">
+                        <i class="fab fa-github-square"></i>
+                    </a>
+                    
+                  
+                    <a href="mailto:dima9023@outlook.com">
+                        <i class="fas fa-envelope"></i>
+                    </a>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <section class="summary">
+            <div class="summary-header">
+                <img src="img/photo2.jpg" alt="Dmitry Trifonov" class="profile-photo"> 
+                <div class="header-info">
+                    <h1>Dmitry Trifonov</h1>
+                    <p>Digital Marketer & Frontend Developer</p>
+                </div>
+            </div>
+            <div class="summary-content">
+                <h2>Summary</h2>
+                <p>My career began as a manager, then I chose the direction of marketing analyst and worked for several years in manufacturing and research companies in the marketing department.</p>
+                <p>For the last few years, I have been working in the field of digital and performance marketing in an IT company.</p>
+                <p>In 2024, I completed courses in Python programming and Python data analytics.</p>
+                <p>Web development has interested me for quite some time. I have several projects on the popular CMS: WordPress and Tilda. Frontend developer courses from Rolling Scope provide fairly good training in this area.</p>
+            </div>
+        </section>
+
+        <section class="education">
+            <h2>Education</h2>
+            <article>
+                <h3>Peter the Great St.Petersburg Polytechnic University (SPbPU)</h3>
+                <p>Faculty Economics</p>
+                <p>Years: 2009 - 2014</p>
+                <p>Specialization: Master of Organization Management</p>
+            </article>
+            <article>
+                <h3>University Polytechnic College "Radiopolytechnicum"</h3>
+                <p>Years: 2005 - 2009</p>
+                <p>Specialization: “Computers, complexes, systems and networks”</p>
+            </article>
+        </section>
+
+        <section class="courses">
+            <h2>Courses</h2>
+            <ul>
+                <li>HTML and CSS Tutorials on Stepik.org</li>
+                <li>RS Schools «JavaScript/Front-end. Stage 0»</li>
+                <li>Programming and creation of IT products in Python</li>
+                <li>Python data analyst</li>
+            </ul>
+        </section>
+
+        <section class="code-example">
+            <h2>Code Example</h2>
+            <pre><code>// Python code - Program that determines the shortest and longest city name:</strong>
+                city1 = input()
+                city2 = input()
+                city3 = input()
+                
+                ans_max = city1  # положили первый город
+                ans_min = city1
+                
+                if len(city2) < len(ans_min):
+                    ans_min = city2
+                
+                if len(city2) > len(ans_max):
+                    ans_max = city2
+                
+                if len(city3) < len(ans_min):
+                    ans_min = city3
+                
+                if len(city3) > len(ans_max):
+                    ans_max = city3
+                
+                print(ans_min)
+                print(ans_max)
+            </code></pre>
+        </section>
+
+        <section class="skills">
+            <h2>Skills</h2>
+            <ul>
+                <li>HTML5, CSS3</li>
+                <li>Python Basics</li>
+                <li>JavaScript Basics</li>
+                <li>SQL Basic</li>
+                <li>Git, GitHub</li>
+                <li>VS Code, PyCharm</li>
+                <li>Adobe Photoshop Basic, Figma Basic</li>
+                <li>CMS WordPress, CMS Tilda</li>
+            </ul>
+        </section>
+
+        <section class="languages">
+            <h2>Languages</h2>
+            <p>Russian Native</p>
+            <p>English Pre-intermediate</p>
+        </section>
+
+        <section class="contacts">
+            <h2>Contacts</h2>
+            <p>dima9023@outlook.com</p>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <a class="footer__github" href="https://github.com/Dmitry11111" target="_blank">
+                My GitHub
+            </a>
+            <p class="footer__year">2021-2022</p>
+            <a class="footer__rsschool" href="https://rs.school/js/" target="_blank">
+                <img src="img/rs_school_js.svg" width="86" height="32" alt="RS School"/>
+            </a>
+        </div>
+    </footer>
+</body>
+</html>
