@@ -1,8 +1,8 @@
 ---
 title: 'Dmitry Trifonov'
 website: http://yourwebsite.com
-street: Street address
-city: City
+street: Toreza
+city: Saint Petersburg
 postcode: Postal code
 phone: +12 (0)3456 7891011
 email: your.email@address.com
@@ -19,7 +19,7 @@ date: 22 November 2014
 - B.A.     Subject (grade), University name and location
 - A Level  Subject (grade), University name and location
 
-### Technical
+### Technical Skills
 
 - Intermediate: HTML, Python, etc, etc
 - Basic: CSS, Stata, etc, etc
@@ -56,7 +56,7 @@ date: 22 November 2014
 
 ### Selected presentations
 
-- YYYY: Title of presentation. Conference. Location. Poster/Oral
+- 2024: Title of presentation. Conference. Location. Poster/Oral
 - YYYY: Title of presentation. Conference. Location. Poster/Oral
 - YYYY: Title of presentation. Conference. Location. Poster/Oral
 - YYYY: Title of presentation. Conference. Location. Poster/Oral
