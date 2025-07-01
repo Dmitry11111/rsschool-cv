@@ -3,7 +3,7 @@
 # Dmitry
 
 **Marketer & Frontend Developer**
-Saint-Petersburg, Russia | (https://github.com/Dmitry11111)\[GitHub]
+Saint-Petersburg, Russia | (https://github.com/Dmitry11111)
 
 ## Summary
 
