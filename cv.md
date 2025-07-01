@@ -1,91 +1,48 @@
----
-title: 'Dmitry Trifonov'
-website: http://yourwebsite.com
-street: Toreza
-city: Saint Petersburg
-postcode: Postal code
-phone: +12 (0)3456 7891011
-email: your.email@address.com
-date: 22 November 2014
-...
 
-### Personal summary
 
-> My research interests are ... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+# Dmitry
 
-### Education 
+**Marketer & Frontend Developer**
+Saint-Petersburg, Russia | (https://github.com/Dmitry11111)\[GitHub]
 
-- M.A.     Subject (grade), University name and location
-- B.A.     Subject (grade), University name and location
-- A Level  Subject (grade), University name and location
+## Summary
 
-### Technical Skills
+My career began as a manager, then I chose the direction of marketing analyst and worked for several years in manufacturing and research companies in the marketing department.
+For the last few years, I have been working in the field of digital and performance marketing in an IT company.
+In 2024, I completed courses in Python programming and Python data analytics.
+Web development has interested me for quite some time. I have several projects on the popular CMS: WordPress and Tilda. Frontend developer courses from Rolling Scope provide fairly good training in this area.
 
-- Intermediate: HTML, Python, etc, etc
-- Basic: CSS, Stata, etc, etc
+## Education
 
-### Employment 
+### Peter the Great St.Petersburg Polytechnic University (SPbPU)
 
-- 2015: Job title, Company
+Faculty Economics
+Years: 2009 - 2014
+Specialization: Master of Organization Management
 
-> In this role I...Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### University Polytechnic College "Radiopolytechnicum"
 
-- 2012: Job title, Company
+Years: 2005 - 2009
+Specialization: “Computers, complexes, systems and networks”
 
-> In this role I...Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### Skills
 
-- 2011: Job title, Company
+* **Programming Languages**: Python Basics, JavaScript, HTML, CSS, SQL
+* **Tools**: Git, VS Code, Jira, Webpack
 
-> In this role I...Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### Code Example
 
-- 2008: Job title, Company
+``` js
+var foo = function (bar) {
+  return bar++;
+};
 
-> In this role I...Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+console.log(foo(5));
+```
 
-\newpage
-
-### Publications
-
-- YYYY: Name et al. Article title. Journal name. Link/DOI
-- YYYY: Name et al. Article title. Journal name. Link/DOI
-- YYYY: Name et al. Article title. Journal name. Link/DOI
-- YYYY: Name et al. Article title. Journal name. Link/DOI
-- YYYY: Name et al. Article title. Journal name. Link/DOI
-- YYYY: Name et al. Article title. Journal name. Link/DOI
-- YYYY: Name et al. Article title. Journal name. Link/DOI
-
-### Selected presentations
-
-- 2024: Title of presentation. Conference. Location. Poster/Oral
-- YYYY: Title of presentation. Conference. Location. Poster/Oral
-- YYYY: Title of presentation. Conference. Location. Poster/Oral
-- YYYY: Title of presentation. Conference. Location. Poster/Oral
-- YYYY: Title of presentation. Conference. Location. Poster/Oral
-- YYYY: Title of presentation. Conference. Location. Poster/Oral
-- YYYY: Title of presentation. Conference. Location. Poster/Oral
-
-### Memberships and committees
-
-- YYYY: Name of committee/society etc.
-- YYYY: Name of committee/society etc.
-- YYYY: Name of committee/society etc.
-- YYYY: Name of committee/society etc.
-- YYYY: Name of committee/society etc.
-- YYYY: Name of committee/society etc.
-
-### Awards and supporting information
-
-- YYYY: Description of award, certificate, supporting info etc.
-- YYYY: Description of award, certificate, supporting info etc.
-- YYYY: Description of award, certificate, supporting info etc.
-- YYYY: Description of award, certificate, supporting info etc.
-- YYYY: Description of award, certificate, supporting info etc.
-- YYYY: Description of award, certificate, supporting info etc.
-- YYYY: Description of award, certificate, supporting info etc.
-
-### References
-
-Available on request.
+### Languages
+Russian Native
+English Pre-intermediate
 
 
 
