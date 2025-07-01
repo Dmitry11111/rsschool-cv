@@ -42,8 +42,8 @@ console.log(foo(5));
 
 ### Languages
 
-Russian Native
-English Pre-intermediate
+* **Russian Native**
+* **English Pre-intermediate**
 
 
 
